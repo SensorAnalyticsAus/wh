@@ -1,5 +1,5 @@
 ## About
-Python code for detecting water spills.
+Python code for detecting water spills
 
 ## Requirements
 * Any Raspberrypi with GPIO header pins
