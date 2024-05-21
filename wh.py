@@ -8,7 +8,7 @@ po_token='your pushover app token'
 po_user='your pushover user key'
 TolAlert = 15  # every secs 
 TolAlarm = 60  # every secs
-pin = 11     #physical pin (not gpio no etc) connected to pir's signal wire
+pin = 11     # physical pin (not gpio no) connected to module's signal wire
 
 import RPi.GPIO as GPIO
 import time
