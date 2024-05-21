@@ -6,7 +6,6 @@ Python code for detecting water spills
 * [Commonly available rain sensor module](https://github.com/SensorAnalyticsAus/wh/blob/main/watersensor.png)
 
 ## Wiring Sensor -> RPI<br>
----
 VCC -> Pin1 (+3.3V)<br>
 GND -> Pin6 (Ground)<br>
 D0 -> Pin11 (GPIO 17)
